@@ -1,0 +1,12 @@
+
+1. Escoger el día para ir a ver la película
+2. Decidir el cine al que quiero ir
+3. Escoger la hora de la función
+4. Escoger el asiento
+5. Pagar el o los boletos
+6. Dirigirse al cine el dia de la función
+7. Formarse en la fila para entrar a la función
+8. Entrar a la sala
+9. Sentarse en el lugar indicado en el boleto
+10. Esperar a que comience la película
+11. Ver la película.
